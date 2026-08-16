@@ -74,6 +74,8 @@ printf("A soma dos 4 valores e: %.1lf \n",a + b + c + d);
 printf("A media dos 4 valores e: %.1lf \n",(a + b + c + d) / 4);
 printf("A produtorio dos 4 valores e: %.1lf \n",a * b * c * d);
 
+return 0;
+
 
 */    
 
